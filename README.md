@@ -6,6 +6,13 @@ Using Embeddings, LLM Prompt Engineering, and Vector Search
 
 This project builds an end-to-end AI-driven candidate ranking system using classical NLP methods, large language models (LLMs), and retrieval-based techniques. It leverages talent sourcing and management datasets to predict candidate fitness, rank and re-rank candidates, ground LLM explanations, and fine-tune an LLM for recruitment-specific tasks.
 
+## Data Availability
+The datasets used in this project were provided by a talent sourcing and management company and are proprietary.
+As a result, they are not included in this repository.
+
+All notebooks, preprocessing steps, and modeling pipelines are provided to ensure reproducibility
+given access to the same or a similar dataset.
+
 #### Language: Python
 
 #### Objectives
