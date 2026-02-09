@@ -81,7 +81,7 @@ The fine-tuned model was evaluated via inference to assess its specialization in
 #### Notebooks & Project Structure
 * Project_Summary
 * EDA_For_Fine_Tunning.ipynb
-* EDA_For_Fine_Ranking.ipynb
+* EDA_For_Ranking.ipynb
 * Ranking_with_FastText.ipynb
 * Ranking_with_GloVe.ipynb
 * Ranking_with_Gemini_API.ipynb
